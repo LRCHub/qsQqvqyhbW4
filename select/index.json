@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Mantra",
+  "base_artist": "JENNIE",
+  "createdAt": "2026-02-12T17:49:28.692284Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mantra",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": true,
+      "path": "select/01_Mantra_Die_Fantastischen_Vier.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Martha’s Mantra (For The Pain)",
+      "artist": "Neil Halstead",
+      "has_synced": true,
+      "path": "select/02_Martha’s_Mantra_(For_The_Pain)_Neil_Halstead.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Funeral Mantra",
+      "artist": "Brett Anderson",
+      "has_synced": false,
+      "path": "select/03_Funeral_Mantra_Brett_Anderson.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mouth Mantra",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/04_Mouth_Mantra_Björk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mouth Mantra",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/05_Mouth_Mantra_Björk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mouth Mantra - The Haxan Cloak Mix",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/06_Mouth_Mantra_-_The_Haxan_Cloak_Mix_Björk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mouth Mantra (The Haxan Cloak Mix)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/07_Mouth_Mantra_(The_Haxan_Cloak_Mix)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mantra",
+      "artist": "Julie Bergan",
+      "has_synced": false,
+      "path": "select/08_Mantra_Julie_Bergan.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mantra for the Lost",
+      "artist": "Catatonia",
+      "has_synced": true,
+      "path": "select/09_Mantra_for_the_Lost_Catatonia.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mantra",
+      "artist": "Earl Sweatshirt",
+      "has_synced": true,
+      "path": "select/10_Mantra_Earl_Sweatshirt.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mantra",
+      "artist": "Earl Sweatshirt",
+      "has_synced": true,
+      "path": "select/11_Mantra_Earl_Sweatshirt.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Satanic Mantra",
+      "artist": "Cradle of Filth",
+      "has_synced": true,
+      "path": "select/12_Satanic_Mantra_Cradle_of_Filth.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Durga Gayatri Mantra",
+      "artist": "Shreya Jain feat. Nakul Chugh & Shashwat Sachdev",
+      "has_synced": true,
+      "path": "select/13_Durga_Gayatri_Mantra_Shreya_Jain_feat._Nakul_Chugh_&_Shashwat_Sachdev.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Durga Gayatri Mantra",
+      "artist": "Shreya Jain, Nakul Chugh, Shashwat Sachdev",
+      "has_synced": true,
+      "path": "select/14_Durga_Gayatri_Mantra_Shreya_Jain,_Nakul_Chugh,_Shashwat_Sachdev.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Jungle Mantra - From the Netflix Film \"The White Tiger\"",
+      "artist": "DIVINE feat. Vince Staples & Pusha T",
+      "has_synced": true,
+      "path": "select/15_Jungle_Mantra_-_From_the_Netflix_Film__The_White_Tiger_DIVINE_feat._Vince_Staples_&_Pusha_T.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Jungle Mantra",
+      "artist": "DIVINE feat. Pusha T & Vince Staples",
+      "has_synced": true,
+      "path": "select/16_Jungle_Mantra_DIVINE_feat._Pusha_T_&_Vince_Staples.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mantra",
+      "artist": "Anggun",
+      "has_synced": true,
+      "path": "select/17_Mantra_Anggun.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mantra",
+      "artist": "JENNIE",
+      "has_synced": false,
+      "path": "select/pl_01_Mantra_JENNIE.txt"
+    }
+  ]
+}
